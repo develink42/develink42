@@ -1,7 +1,7 @@
 <ul>
     <li>👋 Hi, I’m @develink42</li>
-    <li>👀 I’m interested in `Python`, `HTML/CSS`, `GoLang`</li>
-    <li>🌱 I’m currently learning `GoLang`</li>
+    <li>👀 I’m interested in <code>Python</code>, <code>HTML/CSS</code>, <code>GoLang</code></li>
+    <!--<li>🌱 I’m currently learning <code>GoLang</code></li>-->
 </ul>
 <hr/>
 <p align="center">Develink's github stats<br/>
